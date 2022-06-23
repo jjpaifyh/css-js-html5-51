@@ -1,0 +1,19 @@
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#paoid {
+    position: absolute;
+    z-index: 2;
+    border-radius: 50%;
+}
